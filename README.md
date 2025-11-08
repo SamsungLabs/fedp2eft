@@ -2,6 +2,8 @@
 
 #### Update (7 Nov 2026): FedP²EFT is accepted @ AAAI-26.
 
+#### Note: If you find this project useful, please check out our other related FL research: [FedL2P (NeurIPS'23)](https://github.com/royson/fedl2p) and [ReeFL (ICML'24)](https://github.com/royson/reefl).
+
 ## Environment
 
 ```
